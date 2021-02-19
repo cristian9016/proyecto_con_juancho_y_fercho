@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         tv = findViewById(R.id.textView)
-        tv.text = "Hola mundo"
+        tv.text = "Hola este es mi primer proyect"
     }
 }
